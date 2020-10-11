@@ -50,7 +50,7 @@ def create_layout(app):
                                                             "width": 2,
                                                         },
                                                     },
-                                                    name="Eventos",
+                                                    name="Mês",
                                                 ),
                                             ],
                                             "layout": go.Layout(
@@ -118,7 +118,7 @@ def create_layout(app):
                             html.Div(
                                 [
                                     html.H6(
-                                        "Top 5 Meses",
+                                        "Top 5 Meses MAIS Acidentes",
                                         className="subtitle padded",
                                     ),
 									dcc.Graph(
@@ -126,8 +126,8 @@ def create_layout(app):
                                         figure={
                                             "data": [
                                                 go.Bar(
-                                                    x=df_mes_evento.head(5).index,
-                                                    y=df_mes_evento.head(5).values,
+                                                    x=df_mes_evento.head(5)['Mês'],
+                                                    y=df_mes_evento.head(5)['Quantidade'],
                                                     marker={
                                                         "color": "#97151c",
                                                         "line": {
@@ -135,7 +135,7 @@ def create_layout(app):
                                                             "width": 2,
                                                         },
                                                     },
-                                                    name="Eventos",
+                                                    name="Mês",
                                                 ),
                                             ],
                                             "layout": go.Layout(
@@ -197,7 +197,7 @@ def create_layout(app):
                             html.Div(
                                 [
                                     html.H6(
-                                        "Top 5 Tipos Anos",
+                                        "Top 5 Anos MAIS Acidentes",
                                         className="subtitle padded",
                                     ),
 									dcc.Graph(
@@ -205,8 +205,8 @@ def create_layout(app):
                                         figure={
                                             "data": [
                                                 go.Bar(
-                                                    x=df_ano_evento.sort_values('Quantidade', ascending=False).head(5).index,
-                                                    y=df_ano_evento.sort_values('Quantidade', ascending=False).head(5).values,
+                                                    x=df_ano_evento.sort_values('Quantidade', ascending=False).head(5)['Ano'],
+                                                    y=df_ano_evento.sort_values('Quantidade', ascending=False).head(5)['Quantidade'],
                                                     marker={
                                                         "color": "#97151c",
                                                         "line": {
@@ -214,7 +214,7 @@ def create_layout(app):
                                                             "width": 2,
                                                         },
                                                     },
-                                                    name="Eventos",
+                                                    name="Ano",
                                                 ),
                                             ],
                                             "layout": go.Layout(
