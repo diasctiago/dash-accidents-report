@@ -1,0 +1,1409 @@
+Posição,Município,UF,Quantidade
+1,Macaé,RJ,261
+2,Rio de Janeiro,RJ,241
+3,São Paulo,SP,241
+4,Santos,SP,142
+5,Belo Horizonte,MG,97
+6,Uberaba,MG,73
+7,Manaus,AM,68
+8,Vitória,ES,67
+9,Betim,MG,64
+10,Uberlândia,MG,61
+11,Ribeirão Preto,SP,61
+12,Curitiba,PR,58
+13,Duque de Caxias,RJ,57
+14,Brasília,DF,57
+15,Campo Grande,MS,55
+16,Niterói,RJ,53
+17,Salvador,BA,52
+18,Maceió,AL,49
+19,Carmo da Cachoeira,MG,48
+20,Araxá,MG,47
+21,Sorocaba,SP,46
+22,Fortaleza,CE,45
+23,Lavras,MG,45
+24,Aracaju,SE,45
+25,Rio Grande,RS,44
+26,Paranaguá,PR,43
+27,Guaratuba,PR,42
+28,Pouso Alegre,MG,42
+29,Porto Alegre,RS,41
+30,Carmópolis,SE,41
+31,Oliveira,MG,39
+32,Juiz de Fora,MG,37
+33,Cambuí,MG,37
+34,São Francisco do Sul,SC,36
+35,Cubatão,SP,36
+36,Bauru,SP,36
+37,Ibiá,MG,35
+38,Araras,SP,35
+39,Montes Claros,MG,34
+40,Extrema,MG,34
+41,Recife,PE,34
+42,Joinville,SC,34
+43,São José dos Campos,SP,33
+44,Londrina,PR,33
+45,Goiânia,GO,33
+46,Campos Altos,MG,32
+47,Perdões,MG,31
+48,Itabirito,MG,31
+49,São Sebastião,SP,31
+50,Santo Antônio do Amparo,MG,31
+51,Três Corações,MG,30
+52,Piraí,RJ,30
+53,Campinas,SP,30
+54,São Luís,MA,30
+55,Apucarana,PR,30
+56,Contagem,MG,29
+57,Guarujá,SP,29
+58,Cuiabá,MT,29
+59,Florianópolis,SC,29
+60,Nova Lima,MG,28
+61,Matinhos,PR,28
+62,Igarapé,MG,28
+63,Guarulhos,SP,27
+64,Santos Dumont,MG,27
+65,São Gonçalo do Sapucaí,MG,27
+66,Canoas,RS,26
+67,Araças,BA,26
+68,Brumadinho,MG,26
+69,Morretes,PR,26
+70,Paulínia,SP,25
+71,Candeias,BA,25
+72,Esplanada,BA,25
+73,Carmópolis de Minas,MG,24
+74,Piracicaba,SP,24
+75,Itapeva,MG,24
+76,Barbacena,MG,24
+77,Sabará,MG,24
+78,Curvelo,MG,24
+79,Porto Velho,RO,23
+80,Belém,PA,23
+81,Sete Lagoas,MG,22
+82,São José do Rio Preto,SP,22
+83,São Francisco do Conde,BA,22
+84,Petrópolis,RJ,22
+85,Luz,MG,21
+86,Itabira,MG,21
+87,Itaguara,MG,20
+88,Guamaré,RN,20
+89,Monte Alegre de Minas,MG,20
+90,Ponta Grossa,PR,20
+91,Pojuca,BA,19
+92,Itatiaiuçu,MG,19
+93,Barra Mansa,RJ,19
+94,Campina Grande do Sul,PR,19
+95,Jundiaí,SP,19
+96,Vila Velha,ES,19
+97,Muriaé,MG,19
+98,Araraquara,SP,19
+99,Três Marias,MG,19
+100,Três Lagoas,MS,19
+101,Patrocínio,MG,18
+102,Dourados,MS,18
+103,Juatuba,MG,18
+104,Maringá,PR,18
+105,Prata,MG,18
+106,Angra dos Reis,RJ,18
+107,Jacareí,SP,17
+108,Linhares,ES,17
+109,Campos dos Goytacazes,RJ,17
+110,Feira de Santana,BA,17
+111,Tramandaí,RS,17
+112,Carandaí,MG,17
+113,São José dos Pinhais,PR,17
+114,São Bento do Sul,SC,16
+115,Estiva,MG,16
+116,Japaratuba,SE,16
+117,Diadema,SP,16
+118,Divinópolis,MG,16
+119,Campanha,MG,16
+120,Diamantina,MG,16
+121,Leopoldina,MG,16
+122,Sumaré,SP,16
+123,Taubaté,SP,16
+124,Cajati,SP,16
+125,Camanducaia,MG,16
+126,Ituiutaba,MG,16
+127,Ouro Preto,MG,16
+128,Votuporanga,SP,16
+129,Itajaí,SC,15
+130,João Monlevade,MG,15
+131,Araucária,PR,15
+132,Itanhaém,SP,15
+133,São João da Barra,RJ,15
+134,Cosmópolis,SP,15
+135,Santa Luzia,MG,15
+136,Pelotas,RS,15
+137,Careaçu,MG,15
+138,São Vicente,SP,15
+139,Mairiporã,SP,15
+140,São Manuel,SP,14
+141,Nepomuceno,MG,14
+142,Caçapava,SP,14
+143,Congonhas,MG,14
+144,Novo Hamburgo,RS,14
+145,Paraopeba,MG,14
+146,São Roque,SP,14
+147,Volta Redonda,RJ,14
+148,Teófilo Otoni,MG,14
+149,Gravataí,RS,13
+150,Limeira,SP,13
+151,Santo André,SP,13
+152,Mafra,SC,13
+153,Anápolis,GO,13
+154,Além Paraíba,MG,13
+155,São Gonçalo,RJ,13
+156,Indaiatuba,SP,13
+157,Paracuru,CE,13
+158,Barcarena,PA,13
+159,Paracatu,MG,13
+160,Pará de Minas,MG,13
+161,Aracruz,ES,13
+162,São Mateus,ES,13
+163,Cascavel,PR,13
+164,Araporã,MG,13
+165,Pirassununga,SP,12
+166,São Sebastião do Passé,BA,12
+167,Manhuaçu,MG,12
+168,Americana,SP,12
+169,Reserva,PR,12
+170,Artur Nogueira,SP,12
+171,Concórdia,SC,12
+172,Camaçari,BA,12
+173,Macau,RN,12
+174,São Carlos,SP,12
+175,São Leopoldo,RS,12
+176,Ortigueira,PR,11
+177,Rondonópolis,MT,11
+178,Mangaratiba,RJ,11
+179,Pindamonhangaba,SP,11
+180,Caxias do Sul,RS,11
+181,São Bernardo do Campo,SP,11
+182,São Gonçalo do Rio Abaixo,MG,11
+183,Barra do Turvo,SP,11
+184,Araguari,MG,11
+185,Pirapora,MG,11
+186,Governador Valadares,MG,11
+187,Lassance,MG,10
+188,Lages,SC,10
+189,Teresina,PI,10
+190,Francisco Sá,MG,10
+191,Santa Vitória,MG,10
+192,Palmas,TO,10
+193,Nova Iguaçu,RJ,10
+194,Ijuí,RS,10
+195,Lençóis Paulista,SP,10
+196,Santa Rita do Passa Quatro,SP,10
+197,Tijucas do Sul,PR,10
+198,Suzano,SP,10
+199,Caetité,BA,10
+200,Nova Serrana,MG,10
+201,Maricá,RJ,10
+202,Itapecerica da Serra,SP,10
+203,Cristiano Otoni,MG,10
+204,Caxias,MA,10
+205,Pontal do Paraná,PR,10
+206,Felixlândia,MG,10
+207,Natal,RN,10
+208,Catanduva,SP,10
+209,Pedro Leopoldo,MG,10
+210,São Sebastião da Bela Vista,MG,10
+211,Içara,SC,9
+212,Laguna,SC,9
+213,Corinto,MG,9
+214,Catalão,GO,9
+215,Marília,SP,9
+216,Navegantes,SC,9
+217,Criciúma,SC,9
+218,Ribeirão das Neves,MG,9
+219,Catu,BA,9
+220,Marechal Floriano,ES,9
+221,Sacramento,MG,9
+222,Frutal,MG,9
+223,Palhoça,SC,9
+224,Rio Claro,SP,9
+225,Formiga,MG,9
+226,Hortolândia,SP,9
+227,Córrego Danta,MG,9
+228,Resende,RJ,9
+229,Governador Dix-Sept Rosado,RN,9
+230,São Domingos do Prata,MG,9
+231,Serra do Salitre,MG,9
+232,Alagoinhas,BA,9
+233,Itaquaquecetuba,SP,9
+234,Tupaciguara,MG,9
+235,Araçatuba,SP,9
+236,São Gonçalo do Amarante,CE,9
+237,Areia Branca,RN,9
+238,Mariana,MG,8
+239,Jaciara,MT,8
+240,Siriri,SE,8
+241,Mateus Leme,MG,8
+242,Caetanópolis,MG,8
+243,Miracatu,SP,8
+244,Imbituba,SC,8
+245,Mogi das Cruzes,SP,8
+246,São João de Meriti,RJ,8
+247,Porto Ferreira,SP,8
+248,Tupanciretã,RS,8
+249,Três Rios,RJ,8
+250,Itaúna,MG,8
+251,Cornélio Procópio,PR,8
+252,Jeceaba,MG,8
+253,Osório,RS,8
+254,Palmeira,PR,8
+255,Orlândia,SP,8
+256,Arcos,MG,8
+257,Parauapebas,PA,8
+258,Passo Fundo,RS,8
+259,Castro Alves,BA,8
+260,Chapadão do Sul,MS,8
+261,Penha,SC,8
+262,Cotia,SP,8
+263,Nova Era,MG,8
+264,Pilar,AL,8
+265,Cataguases,MG,8
+266,Alto Araguaia,MT,8
+267,Engenheiro Coelho,SP,8
+268,Bom Despacho,MG,8
+269,Santo Antônio do Monte,MG,8
+270,Brotas,SP,8
+271,Lapa,PR,8
+272,Bocaiúva,MG,8
+273,Grão Mogol,MG,8
+274,Vitória da Conquista,BA,8
+275,Sapucaia,RJ,8
+276,Anchieta,ES,7
+277,Valparaíso,SP,7
+278,São Gabriel do Oeste,MS,7
+279,Patos de Minas,MG,7
+280,Bataguassu,MS,7
+281,Coari,AM,7
+282,Guaraqueçaba,PR,7
+283,São Gotardo,MG,7
+284,Santo Antônio do Descoberto,GO,7
+285,Mauá da Serra,PR,7
+286,Itupeva,SP,7
+287,Varginha,MG,7
+288,Corumbá,MS,7
+289,Erechim,RS,7
+290,Araguaína,TO,7
+291,Várzea Grande,MT,7
+292,Monte Castelo,SC,7
+293,Leme,SP,7
+294,Serra,ES,7
+295,Divina Pastora,SE,7
+296,Barra Velha,SC,7
+297,Barra do Piraí,RJ,7
+298,Janaúba,MG,7
+299,Chapecó,SC,7
+300,Poços de Caldas,MG,7
+301,Delfim Moreira,MG,7
+302,Praia Grande,SP,7
+303,Barra dos Coqueiros,SE,7
+304,Aparecida do Taboado,MS,7
+305,João Pinheiro,MG,7
+306,Bandeirantes,PR,7
+307,Santaluz,BA,7
+308,Ewbank da Câmara,MG,7
+309,Santa Cecília,SC,7
+310,Madre de Deus,BA,7
+311,Guaramirim,SC,7
+312,Areal,RJ,7
+313,Veranópolis,RS,7
+314,Nova Ponte,MG,7
+315,Caeté,MG,7
+316,Santa Adélia,SP,7
+317,Colombo,PR,7
+318,Caxambu,MG,7
+319,Ouro Fino,MG,7
+320,Conselheiro Lafaiete,MG,7
+321,Itu,SP,7
+322,Mairinque,SP,7
+323,Paracambi,RJ,7
+324,Mossoró,RN,6
+325,Iguape,SP,6
+326,Jangada,MT,6
+327,Taquara,RS,6
+328,Santa Cruz do Sul,RS,6
+329,Capitólio,MG,6
+330,Teresópolis,RJ,6
+331,Capão Alto,SC,6
+332,Canápolis,MG,6
+333,Miraí,MG,6
+334,Ilha Comprida,SP,6
+335,Pouso Alto,MG,6
+336,Coruripe,AL,6
+337,Atibaia,SP,6
+338,Mongaguá,SP,6
+339,Augusto de Lima,MG,6
+340,Santarém,PA,6
+341,Luziânia,GO,6
+342,São Simão,SP,6
+343,Itapoá,SC,6
+344,Santa Maria,RS,6
+345,Lorena,SP,6
+346,Cachoeira do Sul,RS,6
+347,Santa Juliana,MG,6
+348,Morrinhos,GO,6
+349,Domingos Martins,ES,6
+350,Itajubá,MG,6
+351,São João del Rei,MG,6
+352,Garopaba,SC,6
+353,Biguaçu,SC,6
+354,Rio das Flores,RJ,6
+355,Rio Verde,GO,6
+356,Marataízes,ES,6
+357,Olímpia,SP,6
+358,Campo Belo,MG,6
+359,Rio Novo do Sul,ES,6
+360,Blumenau,SC,6
+361,Borda da Mata,MG,6
+362,Botucatu,SP,6
+363,Cruz Alta,RS,6
+364,Arapiraca,AL,6
+365,Codó,MA,6
+366,Salinas,MG,6
+367,Eunápolis,BA,6
+368,Matão,SP,6
+369,Jequié,BA,6
+370,São Joaquim de Bicas,MG,6
+371,Cassilândia,MS,6
+372,Barueri,SP,6
+373,São Miguel dos Campos,AL,6
+374,Garuva,SC,5
+375,Gurupi,TO,5
+376,Pinheiral,RJ,5
+377,São João do Manhuaçu,MG,5
+378,Jardinópolis,SP,5
+379,Avaí,SP,5
+380,Nossa Senhora do Socorro,SE,5
+381,Nova União,MG,5
+382,Pederneiras,SP,5
+383,São Lourenço,MG,5
+384,Umuarama,PR,5
+385,Itapeva,SP,5
+386,Passos,MG,5
+387,São Sebastião do Paraíso,MG,5
+388,Balneário Piçarras,SC,5
+389,Castilho,SP,5
+390,Coxim,MS,5
+391,Conceição do Mato Dentro,MG,5
+392,Ipatinga,MG,5
+393,Maraú,BA,5
+394,Riachuelo,SE,5
+395,Ribas do Rio Pardo,MS,5
+396,Novo Horizonte,SP,5
+397,São Gonçalo do Abaeté,MG,5
+398,Alfenas,MG,5
+399,Guarapari,ES,5
+400,Bento Gonçalves,RS,5
+401,Conselheiro Pena,MG,5
+402,Buenópolis,MG,5
+403,Bertioga,SP,5
+404,Cambará,PR,5
+405,Marabá,PA,5
+406,Simão Pereira,MG,5
+407,Cabo de Santo Agostinho,PE,5
+408,Cabo Frio,RJ,5
+409,Cabedelo,PB,5
+410,Ressaquinha,MG,5
+411,Esmeraldas,MG,5
+412,Candeias,MG,5
+413,Jaraguá do Sul,SC,5
+414,Guararema,SP,5
+415,Ibiporã,PR,5
+416,João Pessoa,PB,5
+417,Caratinga,MG,5
+418,Mirassol,SP,5
+419,Caraguatatuba,SP,5
+420,Promissão,SP,5
+421,Uruguaiana,RS,5
+422,Aparecida de Goiânia,GO,5
+423,Estância,SE,5
+424,Antônio Dias,MG,5
+425,Medina,MG,5
+426,Araruama,RJ,4
+427,Osasco,SP,4
+428,Jequiá da Praia,AL,4
+429,Lagoa da Prata,MG,4
+430,Laranjeiras,SE,4
+431,Ourinhos,SP,4
+432,Lajeado,TO,4
+433,Corumbataí,SP,4
+434,Coromandel,MG,4
+435,Oliveira Fortes,MG,4
+436,Inocência,MS,4
+437,Afuá,PA,4
+438,Nísia Floresta,RN,4
+439,Cordisburgo,MG,4
+440,Nova Santa Rita,RS,4
+441,Nova Veneza,GO,4
+442,Olinda,PE,4
+443,Almirante Tamandaré,PR,4
+444,Itaboraí,RJ,4
+445,Franco da Rocha,SP,4
+446,Fazenda Rio Grande,PR,4
+447,Ananindeua,PA,4
+448,Itaitinga,CE,4
+449,Marechal Deodoro,AL,4
+450,Juquitiba,SP,4
+451,Flores da Cunha,RS,4
+452,Maracaju,MS,4
+453,Itaguaí,RJ,4
+454,Amambai,MS,4
+455,Vespasiano,MG,4
+456,Alvorada,RS,4
+457,Ipiranga,PR,4
+458,Forquilha,CE,4
+459,Itacoatiara,AM,4
+460,Franca,SP,4
+461,Macatuba,SP,4
+462,Macapá,AP,4
+463,Luís Correia,PI,4
+464,Lucas do Rio Verde,MT,4
+465,Vitória do Mearim,MA,4
+466,Antônio Cardoso,BA,4
+467,Araquari,SC,4
+468,Mauá,SP,4
+469,Costa Rica,MS,4
+470,Timon,MA,4
+471,Timóteo,MG,4
+472,Croatá,CE,4
+473,Torres,RS,4
+474,Arapongas,PR,4
+475,Triunfo,RS,4
+476,Arantina,MG,4
+477,Itamonte,MG,4
+478,Lavrinhas,SP,4
+479,Aragarças,GO,4
+480,Guaratinguetá,SP,4
+481,Montenegro,RS,4
+482,Ipameri,GO,4
+483,Diamantino,MT,4
+484,Itabuna,BA,4
+485,União dos Palmares,AL,4
+486,Areiópolis,SP,4
+487,Guararapes,SP,4
+488,Itamaraju,BA,4
+489,Itirapina,SP,4
+490,Padre Carvalho,MG,4
+491,Igarassu,PE,4
+492,Planura,MG,4
+493,Irajuba,BA,4
+494,Piumhi,MG,4
+495,Inconfidentes,MG,4
+496,Cairu,BA,4
+497,Pires do Rio,GO,4
+498,Balneário Camboriú,SC,4
+499,Santa Bárbara do Tugúrio,MG,4
+500,Sales Oliveira,SP,4
+501,Cafelândia,SP,4
+502,Bagé,RS,4
+503,Itapetininga,SP,4
+504,Catas Altas,MG,4
+505,Pinheiro Machado,RS,4
+506,Cacequi,RS,4
+507,Iguatama,MG,4
+508,Cajazeiras,PB,4
+509,Sobral,CE,4
+510,Santa Rita do Sapucaí,MG,4
+511,Campina Grande,PB,4
+512,Resplendor,MG,4
+513,Candeias do Jamari,RO,4
+514,Bela Vista de Minas,MG,4
+515,Rio Manso,MG,4
+516,Prudente de Morais,MG,4
+517,Belmonte,BA,4
+518,Carambeí,PR,4
+519,Cardeal da Silva,BA,4
+520,Ponto dos Volantes,MG,4
+521,Cambé,PR,4
+522,Rolim de Moura,RO,4
+523,Cariacica,ES,4
+524,Porto Nacional,TO,4
+525,Rolândia,PR,4
+526,Sorriso,MT,4
+527,Ibatiba,ES,4
+528,Caucaia,CE,4
+529,Piraquara,PR,4
+530,Ibitinga,SP,4
+531,Centralina,MG,4
+532,Santo Antônio do Leverger,MT,4
+533,Guaçuí,ES,4
+534,Parnaíba,PI,4
+535,Itumirim,MG,4
+536,Bom Jesus do Amparo,MG,4
+537,Colatina,ES,4
+538,Serro,MG,4
+539,Santo Estêvão,BA,4
+540,Brusque,SC,4
+541,Iturama,MG,4
+542,Itutinga,MG,4
+543,Colíder,MT,4
+544,Bragança Paulista,SP,4
+545,Ivoti,RS,4
+546,Ariquemes,RO,4
+547,Santana,AP,4
+548,Inhapim,MG,4
+549,Sertãozinho,SP,4
+550,Ilhéus,BA,3
+551,Santo Ângelo,RS,3
+552,Abre Campo,MG,3
+553,Aguaí,SP,3
+554,Seropédica,RJ,3
+555,Bom Jesus da Lapa,BA,3
+556,Belo Vale,MG,3
+557,Belo Oriente,MG,3
+558,Goianinha,RN,3
+559,Marialva,PR,3
+560,Andirá,PR,3
+561,Lagoa da Confusão,TO,3
+562,Maruim,SE,3
+563,Água Clara,MS,3
+564,Campos Gerais,MG,3
+565,Campo Florido,MG,3
+566,Matias Barbosa,MG,3
+567,Vargem,SP,3
+568,Rio Branco do Sul,PR,3
+569,Jacupiranga,SP,3
+570,Faxinal,PR,3
+571,Guarapuava,PR,3
+572,Iconha,ES,3
+573,Alfredo Vasconcelos,MG,3
+574,Fervedouro,MG,3
+575,Ipojuca,PE,3
+576,Bálsamo,SP,3
+577,Cachoeira de Minas,MG,3
+578,Altamira,PA,3
+579,Cachoeira de Pajeú,MG,3
+580,Alto Garças,MT,3
+581,Lins,SP,3
+582,Ituverava,SP,3
+583,Silveiras,SP,3
+584,Indianópolis,MG,3
+585,Igaratinga,MG,3
+586,Magé,RJ,3
+587,Fundão,ES,3
+588,Roseira,SP,3
+589,Santo Amaro das Brotas,SE,3
+590,Santo Antônio da Patrulha,RS,3
+591,Itiquira,MT,3
+592,Jacarezinho,PR,3
+593,Mandaguari,PR,3
+594,Venâncio Aires,RS,3
+595,Sinop,MT,3
+596,Juquiá,SP,3
+597,Aiuruoca,MG,3
+598,Siderópolis,SC,3
+599,Maracanaú,CE,3
+600,Rosário do Catete,SE,3
+601,Capinópolis,MG,3
+602,São Joaquim da Barra,SP,3
+603,Nova Granada,SP,3
+604,Pedra Preta,MT,3
+605,Jaraguari,MS,3
+606,Corupá,SC,3
+607,Nova Mutum,MT,3
+608,Araranguá,SC,3
+609,Tijucas,SC,3
+610,Avaré,SP,3
+611,Peruíbe,SP,3
+612,Tambaú,SP,3
+613,São Sebastião do Oeste,MG,3
+614,Cravinhos,SP,3
+615,Pindorama,SP,3
+616,Açailândia,MA,3
+617,Tiros,MG,3
+618,Trairi,CE,3
+619,Restinga Seca,RS,3
+620,Pedra Azul,MG,3
+621,Paulista,PE,3
+622,Mutum,MG,3
+623,Tanhaçu,BA,3
+624,Ouro Branco,MG,3
+625,Conceição das Alagoas,MG,3
+626,Tapiraí,MG,3
+627,Tapira,MG,3
+628,Jaú,SP,3
+629,Paraguaçu,MG,3
+630,Arraial do Cabo,RJ,3
+631,Paraty,RJ,3
+632,Paty do Alferes,RJ,3
+633,Araújos,MG,3
+634,Pariquera-Açu,SP,3
+635,Tangará da Serra,MT,3
+636,Gurinhatã,MG,3
+637,Coroatá,MA,3
+638,Jataizinho,PR,3
+639,Itapebi,BA,3
+640,Muzambinho,MG,3
+641,São Pedro da Água Branca,MA,3
+642,Passa Tempo,MG,3
+643,Pradópolis,SP,3
+644,Carmo do Paranaíba,MG,3
+645,Mesquita,RJ,3
+646,Cardoso,SP,3
+647,Muritiba,BA,3
+648,São José do Norte,RS,3
+649,Pains,MG,3
+650,Carapicuíba,SP,3
+651,São João do Itaperiú,SC,3
+652,Barretos,SP,3
+653,Presidente Figueiredo,AM,3
+654,Capão Bonito,SP,3
+655,Professor Jamil,GO,3
+656,Engenheiro Navarro,MG,3
+657,Quatis,RJ,3
+658,Quatro Barras,PR,3
+659,Monte Azul,MG,3
+660,Ponte Nova,MG,3
+661,Ubatuba,SP,3
+662,Estrela d'Oeste,SP,3
+663,Balsa Nova,PR,3
+664,Hidrolândia,GO,3
+665,Casa Branca,SP,3
+666,Ponta Porã,MS,3
+667,Ubá,MG,3
+668,Cássia,MG,3
+669,Caruaru,PE,3
+670,Vacaria,RS,3
+671,Barroso,MG,3
+672,Jales,SP,3
+673,Imbaú,PR,2
+674,Ibiraçu,ES,2
+675,Gramado,RS,2
+676,Ibiraci,MG,2
+677,Ibirama,SC,2
+678,Guaraí,TO,2
+679,Guará,SP,2
+680,Gurjão,PB,2
+681,Guaiçara,SP,2
+682,Ibiaí,MG,2
+683,Ibaté,SP,2
+684,Indiaroba,SE,2
+685,Guarantã,SP,2
+686,Herculândia,SP,2
+687,Inácio Martins,PR,2
+688,Ingaí,MG,2
+689,Guapiara,SP,2
+690,Guabiruba,SC,2
+691,Casa Nova,BA,2
+692,Goiatuba,GO,2
+693,Breu Branco,PA,2
+694,Bento de Abreu,SP,2
+695,Birigui,SP,2
+696,Boa Esperança,MG,2
+697,Boa Nova,BA,2
+698,Bocaina,SP,2
+699,Bom Conselho,PE,2
+700,Bom Jesus da Penha,MG,2
+701,Bom Princípio,RS,2
+702,Bom Sucesso,MG,2
+703,Bom Sucesso de Itararé,SP,2
+704,Bozano,RS,2
+705,Brasilândia de Minas,MG,2
+706,Buerarema,BA,2
+707,Barão de Cocais,MG,2
+708,Buritama,SP,2
+709,Buriti Alegre,GO,2
+710,Buritis,MG,2
+711,Buritizeiro,MG,2
+712,Cabeceira Grande,MG,2
+713,Cabo Verde,MG,2
+714,Cabreúva,SP,2
+715,Cafezal do Sul,PR,2
+716,Caicó,RN,2
+717,Caieiras,SP,2
+718,Cajuru,SP,2
+719,Caldas,MG,2
+720,Barão de Cotegipe,RS,2
+721,Barro,CE,2
+722,Goiandira,GO,2
+723,Apiacá,ES,2
+724,Acarape,CE,2
+725,Acopiara,CE,2
+726,Aimorés,MG,2
+727,Alagoa Nova,PB,2
+728,Alenquer,PA,2
+729,Alto Taquari,MT,2
+730,Altos,PI,2
+731,Amparo,SP,2
+732,Américo de Campos,SP,2
+733,Analândia,SP,2
+734,Antônio Carlos,MG,2
+735,Aparecida,SP,2
+736,Apuí,AM,2
+737,Bariri,SP,2
+738,Aquidauana,MS,2
+739,Aracati,CE,2
+740,Aramina,SP,2
+741,Aratiba,RS,2
+742,Areado,MG,2
+743,Arujá,SP,2
+744,Assis,SP,2
+745,Atilio Vivacqua,ES,2
+746,Açucena,MG,2
+747,Babaçulândia,TO,2
+748,Bambuí,MG,2
+749,Barbalha,CE,2
+750,Califórnia,PR,2
+751,Camocim de São Félix,PE,2
+752,Campina Verde,MG,2
+753,Estrela,RS,2
+754,Crucilândia,MG,2
+755,Cruzeiro,SP,2
+756,Cruzeiro do Sul,RS,2
+757,Cruzília,MG,2
+758,Curitibanos,SC,2
+759,Delta,MG,2
+760,Dias d'Ávila,BA,2
+761,Dois Córregos,SP,2
+762,Dois Irmãos,RS,2
+763,Embu-Guaçu,SP,2
+764,Entre Rios,BA,2
+765,Espera Feliz,MG,2
+766,Estância Velha,RS,2
+767,Campo Largo,PR,2
+768,Extremoz,RN,2
+769,Fernandópolis,SP,2
+770,Ferraz de Vasconcelos,SP,2
+771,Floresta Azul,BA,2
+772,Florestal,MG,2
+773,Floriano,PI,2
+774,Formosa do Rio Preto,BA,2
+775,Fortaleza de Minas,MG,2
+776,Franciscópolis,MG,2
+777,Fronteira,MG,2
+778,Fátima do Sul,MS,2
+779,Gavião Peixoto,SP,2
+780,Coronel Barros,RS,2
+781,Coroaci,MG,2
+782,Conceição do Coité,BA,2
+783,Coité do Nóia,AL,2
+784,Campo do Tenente,PR,2
+785,Campos de Júlio,MT,2
+786,Canela,RS,2
+787,Cantanhede,MA,2
+788,Capela de Santana,RS,2
+789,Capistrano,CE,2
+790,Carazinho,RS,2
+791,Cardoso Moreira,RJ,2
+792,Cariri do Tocantins,TO,2
+793,Carmo do Cajuru,MG,2
+794,Carmo do Rio Claro,MG,2
+795,Carrancas,MG,2
+796,Carvalhópolis,MG,2
+797,Casca,RS,2
+798,Casimiro de Abreu,RJ,2
+799,Catuji,MG,2
+800,Caçu,GO,2
+801,Cedral,SP,2
+802,Cedro,CE,2
+803,Central de Minas,MG,2
+804,Cerquilho,SP,2
+805,Cerro Largo,RS,2
+806,Chorozinho,CE,2
+807,Cláudio,MG,2
+808,Codajás,AM,2
+809,Ipê,RS,2
+810,Águas da Prata,SP,2
+811,Porteirinha,MG,2
+812,Nova Europa,SP,2
+813,São José de Piranhas,PB,2
+814,São José da Laje,AL,2
+815,São José,SC,2
+816,São Gonçalo dos Campos,BA,2
+817,São Gonçalo do Pará,MG,2
+818,São Gabriel,RS,2
+819,Muribeca,SE,2
+820,Mário Campos,MG,2
+821,Nilópolis,RJ,2
+822,São Domingos,SC,2
+823,Nova Aliança,SP,2
+824,São Cristóvão,SE,2
+825,São Cristovão do Sul,SC,2
+826,Nova Fátima,BA,2
+827,Monte Alegre,RN,2
+828,São Brás do Suaçuí,MG,2
+829,Nova Laranjeiras,PR,2
+830,Nova Nazaré,MT,2
+831,Nova Odessa,SP,2
+832,Nova Palma,RS,2
+833,Sousa,PB,2
+834,Sombrio,SC,2
+835,Soledade de Minas,MG,2
+836,Sobradinho,RS,2
+837,Silva Jardim,RJ,2
+838,Ocauçu,SP,2
+839,Sidrolândia,MS,2
+840,Sertânia,PE,2
+841,Monções,SP,2
+842,São João da Boa Vista,SP,2
+843,Padre Bernardo,GO,2
+844,Medianeira,PR,2
+845,Tatuí,SP,2
+846,Tarauacá,AC,2
+847,Marapanim,PA,2
+848,Taquaritinga,SP,2
+849,Marechal Cândido Rondon,PR,2
+850,Taquari,RS,2
+851,Marques de Souza,RS,2
+852,Tapejara,RS,2
+853,Tanabi,SP,2
+854,Martinópolis,SP,2
+855,Mata de São João,BA,2
+856,Matozinhos,MG,2
+857,Tabapuã,SP,2
+858,Meleiro,SC,2
+859,Mogi Guaçu,SP,2
+860,Meridiano,SP,2
+861,Milagres,BA,2
+862,Mimoso do Sul,ES,2
+863,Minas Novas,MG,2
+864,São Sebastião da Boa Vista,PA,2
+865,Mineiros,GO,2
+866,Miradouro,MG,2
+867,São Pedro do Sul,RS,2
+868,São Pedro do Butiá,RS,2
+869,Mirassolândia,SP,2
+870,São João do Polêsine,RS,2
+871,Moeda,MG,2
+872,Moema,MG,2
+873,Orizânia,MG,2
+874,Satuba,AL,2
+875,Manacapuru,AM,2
+876,Quixadá,CE,2
+877,Porto Feliz,SP,2
+878,Porto Franco,MA,2
+879,Porto Grande,AP,2
+880,Portão,RS,2
+881,Potim,SP,2
+882,Pouso Novo,RS,2
+883,Pratápolis,MG,2
+884,Presidente Epitácio,SP,2
+885,Presidente Juscelino,MG,2
+886,Santa Cruz do Rio Pardo,SP,2
+887,Presidente Olegário,MG,2
+888,Primavera do Leste,MT,2
+889,Quissamã,RJ,2
+890,Salto,SP,2
+891,Santa Rita de Caldas,MG,2
+892,Recreio,MG,2
+893,Registro,SP,2
+894,Riachão do Jacuípe,BA,2
+895,Rubinéia,SP,2
+896,Rosário do Sul,RS,2
+897,Ribeirão Vermelho,MG,2
+898,Rio Bonito,RJ,2
+899,Rio Branco,AC,2
+900,Rio Casca,MG,2
+901,Rosana,SP,2
+902,Rio Paranaíba,MG,2
+903,Rio Pardo,RS,2
+904,Rio das Pedras,SP,2
+905,Porto Belo,SC,2
+906,Santa Rita de Jacutinga,MG,2
+907,Paiva,MG,2
+908,Santo Antônio do Aracanguá,SP,2
+909,Sarandi,PR,2
+910,Palmares do Sul,RS,2
+911,Palmeira dos Índios,AL,2
+912,Sapucaia do Sul,RS,2
+913,Paragominas,PA,2
+914,Paraíso do Tocantins,TO,2
+915,Santo Antônio do Pinhal,SP,2
+916,Parintins,AM,2
+917,Parnamirim,RN,2
+918,Santo Antônio do Grama,MG,2
+919,Passa Quatro,MG,2
+920,Patos,PB,2
+921,Pedrinhas Paulista,SP,2
+922,Pedro Gomes,MS,2
+923,Pontal,SP,2
+924,Santo Antônio de Jesus,BA,2
+925,Perdizes,MG,2
+926,Petrolina,PE,2
+927,Piau,MG,2
+928,Piaçabuçu,AL,2
+929,Picada Café,RS,2
+930,Piracema,MG,2
+931,Pirajuba,MG,2
+932,Santana da Vargem,MG,2
+933,Piratininga,SP,2
+934,Pirenópolis,GO,2
+935,Pitanga,PR,2
+936,Pompéu,MG,2
+937,Manhumirim,MG,2
+938,São João do Piauí,PI,2
+939,Vera Cruz,RS,2
+940,Ji-Paraná,RO,2
+941,Jaboticabal,SP,2
+942,Itatiba,SP,2
+943,Lagoa Santa,MG,2
+944,Joaquim Felício,MG,2
+945,Várzea da Palma,MG,2
+946,Wanderlândia,TO,2
+947,Jesuânia,MG,2
+948,Itambé,PR,2
+949,Tumiritinga,MG,2
+950,Xavantina,SC,2
+951,Vila Boa,GO,2
+952,Três Coroas,RS,2
+953,Vilhena,RO,2
+954,Jacutinga,MG,2
+955,Lagoa Nova,RN,2
+956,Jaborandi,SP,2
+957,Tururu,CE,2
+958,João Neiva,ES,2
+959,Juazeiro,BA,2
+960,Itirapuã,SP,2
+961,Ladário,MS,2
+962,Umirim,CE,2
+963,Águas Vermelhas,MG,2
+964,Jupiá,SC,2
+965,Júlio de Castilhos,RS,2
+966,Urussanga,SC,2
+967,Vinhedo,SP,2
+968,Jussara,GO,2
+969,Júlio Borges,PI,2
+970,Itápolis,SP,2
+971,Ivinhema,MS,2
+972,Laranjal do Jari,AP,2
+973,Uraí,PR,2
+974,Januária,MG,2
+975,Limeira do Oeste,MG,2
+976,Tio Hugo,RS,2
+977,Teotônio Vilela,AL,2
+978,Itagibá,BA,2
+979,Teutônia,RS,2
+980,Linha Nova,RS,2
+981,Jaguariúna,SP,2
+982,Jaru,RO,2
+983,Água Doce,SC,2
+984,Vargem Grande Paulista,SP,2
+985,Limoeiro,PE,2
+986,Vargem Bonita,SC,2
+987,Vermelho Novo,MG,2
+988,Itacambira,MG,2
+989,Louveira,SP,2
+990,Itamarandiba,MG,2
+991,Tibau do Sul,RN,2
+992,Itabaiana,PB,2
+993,Jandira,SP,2
+994,Vargem Alta,ES,2
+995,Jandaíra,BA,2
+996,Japeri,RJ,2
+997,Valparaíso de Goiás,GO,2
+998,Luislândia,MG,2
+999,Macaíba,RN,2
+1000,Terenos,MS,2
+1001,Videira,SC,1
+1002,Veríssimo,MG,1
+1003,Santa Rosa de Viterbo,SP,1
+1004,Santa Rita de Minas,MG,1
+1005,Brejões,BA,1
+1006,Brejo Grande,SE,1
+1007,Santa Teresinha,BA,1
+1008,Santana da Boa Vista,RS,1
+1009,Brodowski,SP,1
+1010,Santa Tereza,RS,1
+1011,Santa Tereza do Tocantins,TO,1
+1012,Alto Alegre do Pindaré,MA,1
+1013,Santana da Ponte Pensa,SP,1
+1014,Alvorada do Norte,GO,1
+1015,Vila Rica,MT,1
+1016,Vila Propício,GO,1
+1017,Santana do Jacaré,MG,1
+1018,Santana do Paraíso,MG,1
+1019,Vigia,PA,1
+1020,Alumínio,SP,1
+1021,Brumado,BA,1
+1022,Santana do Riacho,MG,1
+1023,Alto do Rodrigues,RN,1
+1024,Arcoverde,PE,1
+1025,Alpercata,MG,1
+1026,Santa Bárbara do Leste,MG,1
+1027,Santa Bárbara,MG,1
+1028,Sandovalina,SP,1
+1029,Água Branca,PB,1
+1030,Cajuri,MG,1
+1031,Salgado,SE,1
+1032,Acreúna,GO,1
+1033,Água Branca,PI,1
+1034,Aceguá,RS,1
+1035,Rosário Oeste,MT,1
+1036,Camapuã,MS,1
+1037,Acaiaca,MG,1
+1038,Água Fria,BA,1
+1039,Rorainópolis,RR,1
+1040,Cambira,PR,1
+1041,Camboriú,SC,1
+1042,Rodeio,SC,1
+1043,Roca Sales,RS,1
+1044,Abaeté,MG,1
+1045,Camocim,CE,1
+1046,Ritápolis,MG,1
+1047,Abadia dos Dourados,MG,1
+1048,Água Boa,MT,1
+1049,Santa Cruz de Salinas,MG,1
+1050,Santa Rita,PB,1
+1051,Agudos,SP,1
+1052,Santa Rita,MA,1
+1053,Alhandra,PB,1
+1054,Visconde do Rio Branco,MG,1
+1055,Santa Mariana,PR,1
+1056,Cachoeira Paulista,SP,1
+1057,Santa Maria de Jetibá,ES,1
+1058,Santa Maria da Boa Vista,PE,1
+1059,Brejo Alegre,SP,1
+1060,Vitorino Freire,MA,1
+1061,Várzea Paulista,SP,1
+1062,Alegre,ES,1
+1063,Santa Luzia,MA,1
+1064,Cachoeiras de Macacu,RJ,1
+1065,Cachoeirinha,RS,1
+1066,Santa Isabel,SP,1
+1067,Santa Fé do Sul,SP,1
+1068,Santa Ernestina,SP,1
+1069,Xapuri,AC,1
+1070,Aguiarnópolis,TO,1
+1071,Santa Cruz do Capibaribe,PE,1
+1072,Caiana,MG,1
+1073,Cachoeira do Arari,PA,1
+1074,Saubara,BA,1
+1075,Brasópolis,MG,1
+1076,Tubarão,SC,1
+1077,Tremembé,SP,1
+1078,São Pedro da União,MG,1
+1079,São Pedro da Aldeia,RJ,1
+1080,São Miguel Arcanjo,SP,1
+1081,São Mateus do Sul,PR,1
+1082,Bandeirantes,MS,1
+1083,São Luíz do Norte,GO,1
+1084,São Luís do Quitunde,AL,1
+1085,São Lourenço do Sul,RS,1
+1086,Araioses,MA,1
+1087,São Roque de Minas,MG,1
+1088,Campanário,MG,1
+1089,Tupã,SP,1
+1090,Barra Longa,MG,1
+1091,São João do Cariri,PB,1
+1092,São João da Lagoa,MG,1
+1093,Barra de São Miguel,AL,1
+1094,Turmalina,MG,1
+1095,Barra do Rio Azul,RS,1
+1096,São João Nepomuceno,MG,1
+1097,Baependi,MG,1
+1098,Torrinha,SP,1
+1099,Barreirinha,AM,1
+1100,Tapes,RS,1
+1101,Tavares,RS,1
+1102,Arco-Íris,SP,1
+1103,Teixeira Soares,PR,1
+1104,Areias,SP,1
+1105,Araçaí,MG,1
+1106,Teixeiras,MG,1
+1107,Argirita,MG,1
+1108,Aricanduva,MG,1
+1109,Terezópolis de Goiás,GO,1
+1110,Arroio dos Ratos,RS,1
+1111,Timbiras,MA,1
+1112,Terra de Areia,RS,1
+1113,Talismã,TO,1
+1114,Taboão da Serra,SP,1
+1115,São Vicente do Sul,RS,1
+1116,Arari,MA,1
+1117,São Simão,GO,1
+1118,São Sebastião da Vargem Alegre,MG,1
+1119,Tianguá,CE,1
+1120,Tietê,SP,1
+1121,São José do Belmonte,PE,1
+1122,Barreiros,PE,1
+1123,Vazante,MG,1
+1124,Bom Jesus do Tocantins,PA,1
+1125,Boa Vista,RR,1
+1126,Angélica,MS,1
+1127,Serra do Mel,RN,1
+1128,Serra Talhada,PE,1
+1129,Bom Jesus,PI,1
+1130,Seritinga,MG,1
+1131,Valença,BA,1
+1132,Senador Modestino Gonçalves,MG,1
+1133,Senador Firmino,MG,1
+1134,Tefé,AM,1
+1135,Sirinhaém,PE,1
+1136,Angatuba,SP,1
+1137,Bom Repouso,MG,1
+1138,Bombinhas,SC,1
+1139,Saquarema,RJ,1
+1140,Anajatuba,MA,1
+1141,Sapiranga,RS,1
+1142,Varjão de Minas,MG,1
+1143,Santo Antônio do Itambé,MG,1
+1144,Amélia Rodrigues,BA,1
+1145,Simões Filho,BA,1
+1146,Anicuns,GO,1
+1147,São José do Barreiro,SP,1
+1148,São Francisco do Brejão,MA,1
+1149,São José da Varginha,MG,1
+1150,Ubaporanga,MG,1
+1151,Uiraúna,PB,1
+1152,Aquiraz,CE,1
+1153,Bela Vista de Goiás,GO,1
+1154,São Félix,BA,1
+1155,Belford Roxo,RJ,1
+1156,Unaí,MG,1
+1157,Belmiro Braga,MG,1
+1158,São Francisco de Paula,RS,1
+1159,Valentim Gentil,SP,1
+1160,Upanema,RN,1
+1161,São Desidério,BA,1
+1162,Uruaçu,GO,1
+1163,Belém,PB,1
+1164,Urucânia,MG,1
+1165,Urupês,SP,1
+1166,Urutaí,GO,1
+1167,Vale Verde,RS,1
+1168,Bicas,MG,1
+1169,Rio dos Índios,RS,1
+1170,Iraquara,BA,1
+1171,Campestre da Serra,RS,1
+1172,Licínio de Almeida,BA,1
+1173,Fonte Boa,AM,1
+1174,Major Vieira,SC,1
+1175,Formosa,GO,1
+1176,Madre de Deus de Minas,MG,1
+1177,Formoso,MG,1
+1178,Machadinho D'Oeste,RO,1
+1179,Forquilhinha,SC,1
+1180,Fraiburgo,SC,1
+1181,Francisco Beltrão,PR,1
+1182,Limoeiro do Norte,CE,1
+1183,Fruta de Leite,MG,1
+1184,Lima Duarte,MG,1
+1185,Lavras da Mangabeira,CE,1
+1186,Mamanguape,PB,1
+1187,Galinhos,RN,1
+1188,Lauro de Freitas,BA,1
+1189,Gaspar,SC,1
+1190,Laranjal,MG,1
+1191,Goiana,PE,1
+1192,Lambari,MG,1
+1193,Lajinha,MG,1
+1194,Goianésia do Pará,PA,1
+1195,Goiás,GO,1
+1196,Gouveia,MG,1
+1197,Lagoa Grande,MG,1
+1198,Lagoa Formosa,MG,1
+1199,Florínia,SP,1
+1200,Floresta do Araguaia,PA,1
+1201,Ladainha,MG,1
+1202,Estrela do Sul,MG,1
+1203,Dumont,SP,1
+1204,Miranorte,TO,1
+1205,Eldorado,SP,1
+1206,Elói Mendes,MG,1
+1207,Embu,SP,1
+1208,Mirandópolis,SP,1
+1209,Encruzilhada,BA,1
+1210,Engenheiro Caldas,MG,1
+1211,Miranda,MS,1
+1212,Entre Rios de Minas,MG,1
+1213,Mercês,MG,1
+1214,Estrela Dalva,MG,1
+1215,Maxaranguape,RN,1
+1216,Manicoré,AM,1
+1217,Matipó,MG,1
+1218,Matelândia,PR,1
+1219,Exu,PE,1
+1220,Fama,MG,1
+1221,Faria Lemos,MG,1
+1222,Martins Soares,MG,1
+1223,Maripá de Minas,MG,1
+1224,Marcionílio Souza,BA,1
+1225,Marau,RS,1
+1226,Ferros,MG,1
+1227,Maraial,PE,1
+1228,Flores de Goiás,GO,1
+1229,Lagoa Dourada,MG,1
+1230,Guaimbê,SP,1
+1231,Rio Preto,MG,1
+1232,Itariri,SP,1
+1233,Jaci,SP,1
+1234,Jacareacanga,PA,1
+1235,Jaboatão dos Guararapes,PE,1
+1236,Ijaci,MG,1
+1237,Ilha Solteira,SP,1
+1238,Ilhabela,SP,1
+1239,Itueta,MG,1
+1240,Itaí,SP,1
+1241,Imbé,RS,1
+1242,Imperatriz,MA,1
+1243,Indaial,SC,1
+1244,Itatiaia,RJ,1
+1245,Indiara,GO,1
+1246,Icém,SP,1
+1247,Itapipoca,CE,1
+1248,Itaperuna,RJ,1
+1249,Itapecerica,MG,1
+1250,Itapagé,CE,1
+1251,Itamarati,AM,1
+1252,Ipanema,MG,1
+1253,Iperó,SP,1
+1254,Ipiaú,BA,1
+1255,Ipueiras,CE,1
+1256,Ipupiara,BA,1
+1257,Irauçuba,CE,1
+1258,Iramaia,BA,1
+1259,Igarapava,SP,1
+1260,Jacobina,BA,1
+1261,Juti,MS,1
+1262,Guimarânia,MG,1
+1263,Guanhães,MG,1
+1264,Jutaí,AM,1
+1265,Guapó,GO,1
+1266,Juramento,MG,1
+1267,Guarantã do Norte,MT,1
+1268,Jumirim,SP,1
+1269,José de Freitas,PI,1
+1270,José Bonifácio,SP,1
+1271,Guaraçaí,SP,1
+1272,Jauru,MT,1
+1273,Guaxupé,MG,1
+1274,Jati,CE,1
+1275,Jataí,GO,1
+1276,Icapuí,CE,1
+1277,Gurinhém,PB,1
+1278,Heliodora,MG,1
+1279,Japaraíba,MG,1
+1280,Holambra,SP,1
+1281,Jandaia do Sul,PR,1
+1282,Jandaia,GO,1
+1283,Jampruca,MG,1
+1284,Jaguaré,ES,1
+1285,Jaguarari,BA,1
+1286,Ibirité,MG,1
+1287,Jaguaquara,BA,1
+1288,Ibotirama,BA,1
+1289,Dueré,TO,1
+1290,Miraíma,CE,1
+1291,Dom Expedito Lopes,PI,1
+1292,Pirapemas,MA,1
+1293,Carlos Barbosa,RS,1
+1294,Carlos Chagas,MG,1
+1295,Portelândia,GO,1
+1296,Iranduba,AM,1
+1297,Porangatu,GO,1
+1298,Pontalina,GO,1
+1299,Pompéia,SP,1
+1300,Planalto,BA,1
+1301,Pitangui,MG,1
+1302,Piraúba,MG,1
+1303,Castelo,ES,1
+1304,Piraí do Sul,PR,1
+1305,Pirambu,SE,1
+1306,Porto Real,RJ,1
+1307,Catas Altas da Noruega,MG,1
+1308,Piracanjuba,GO,1
+1309,Peritoró,MA,1
+1310,Caxingó,PI,1
+1311,Pendências,RN,1
+1312,Ceará-Mirim,RN,1
+1313,Pedro Alexandre,BA,1
+1314,Pedras de Fogo,PB,1
+1315,Paulo Lopes,SC,1
+1316,Passo do Sobrado,RS,1
+1317,Passo de Torres,SC,1
+1318,Cianorte,PR,1
+1319,Cariré,CE,1
+1320,Porto do Mangue,RN,1
+1321,Dom Cavati,MG,1
+1322,Raul Soares,MG,1
+1323,Rio Piracicaba,MG,1
+1324,Rio Negrinho,SC,1
+1325,Rio Largo,AL,1
+1326,Rio Espera,MG,1
+1327,Campo Mourão,PR,1
+1328,Campo Verde,MT,1
+1329,Campo do Meio,MG,1
+1330,Rio Acima,MG,1
+1331,Cana Verde,MG,1
+1332,Cananéia,SP,1
+1333,Canas,SP,1
+1334,Redenção do Gurguéia,PI,1
+1335,Canoinhas,SC,1
+1336,Carbonita,MG,1
+1337,Rafael Jambeiro,BA,1
+1338,Rafael Fernandes,RN,1
+1339,Capelinha,MG,1
+1340,Capim Branco,MG,1
+1341,Queluz,SP,1
+1342,Propriá,SE,1
+1343,Caracaraí,RR,1
+1344,Presidente Kennedy,ES,1
+1345,Carangola,MG,1
+1346,Presidente Alves,SP,1
+1347,Caravelas,BA,1
+1348,Poço Fundo,MG,1
+1349,Cidelândia,MA,1
+1350,Cocalzinho de Goiás,GO,1
+1351,Paranaiguara,GO,1
+1352,Custódia,PE,1
+1353,Nossa Senhora da Glória,SE,1
+1354,Cristina,MG,1
+1355,Nazaré,BA,1
+1356,Naviraí,MS,1
+1357,Murutinga do Sul,SP,1
+1358,Cubati,PB,1
+1359,Muitos Capões,RS,1
+1360,Mucajaí,RR,1
+1361,Curionópolis,PA,1
+1362,Mostardas,RS,1
+1363,Morro da Garça,MG,1
+1364,Morro Grande,SC,1
+1365,Mormaço,RS,1
+1366,Palmitinho,RS,1
+1367,Cândido Sales,BA,1
+1368,Monção,MA,1
+1369,Delmiro Gouveia,AL,1
+1370,Montividiu,GO,1
+1371,Descalvado,SP,1
+1372,Monte Santo de Minas,MG,1
+1373,Monjolos,MG,1
+1374,Moju,PA,1
+1375,Dilermando de Aguiar,RS,1
+1376,Moji Mirim,SP,1
+1377,Divinésia,MG,1
+1378,Divisópolis,MG,1
+1379,Cristal,RS,1
+1380,Nova Alvorada do Sul,MS,1
+1381,Nova Andradina,MS,1
+1382,Couto de Magalhães de Minas,MG,1
+1383,Colinas do Tocantins,TO,1
+1384,Comendador Gomes,MG,1
+1385,Conceição da Barra,ES,1
+1386,Pai Pedro,MG,1
+1387,Conceição do Jacuípe,BA,1
+1388,Conceição do Rio Verde,MG,1
+1389,Conchas,SP,1
+1390,Ouro Preto do Oeste,RO,1
+1391,Conde,PB,1
+1392,Congonhas do Norte,MG,1
+1393,Orizona,GO,1
+1394,Oriximiná,PA,1
+1395,Onda Verde,SP,1
+1396,Contenda,PR,1
+1397,Cordilheira Alta,SC,1
+1398,Nuporanga,SP,1
+1399,Novo Oriente de Minas,MG,1
+1400,Novo Machado,RS,1
+1401,Novo Lino,AL,1
+1402,Novo Cruzeiro,MG,1
+1403,Nova Xavantina,MT,1
+1404,Coronel Fabriciano,MG,1
+1405,Coronel Murta,MG,1
+1406,Coronel Pacheco,MG,1
+1407,Nova Itarana,BA,1
+1408,Abadia de Goiás,GO,1
