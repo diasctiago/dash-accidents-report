@@ -11,7 +11,7 @@ from pages import (
 )
 
 #Carga DADOS
-
+'''
 df = pd.read_csv('http://siscom.ibama.gov.br/geoserver/publica/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=publica:adm_comunicacidente_p&outputFormat=csv'
                  ,usecols=['dt_registro','origem','uf','tipos_danos_identificados','tipo_evento','institiuicoes_atuando_local','municipio',] ,low_memory=False)
 df['mes_registro'] = pd.DatetimeIndex(pd.to_datetime(df['dt_registro'])).month
@@ -82,7 +82,7 @@ municipio = {'Posição': list(range(1, df[['municipio','uf']].value_counts().sh
              'Quantidade': df[['municipio','uf']].value_counts().values}
 df_municipio = pd.DataFrame(municipio)
 df_municipio.to_csv('data/df_municipio.csv', index=False)
-
+'''
 
 app = dash.Dash(
     __name__, meta_tags=[{"name": "viewport", "content": "width=device-width"}]
