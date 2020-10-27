@@ -102,12 +102,12 @@ def create_layout(app):
                                     ),
 									html.P(
                                         [
-                                            "TEXTO EXPLICATIVO DO GRÁFICO"
+                                            "Em uma análise mensal é notável que , após o meio do ano os números de acidentes ambientais tendem a ter uma crescente."
                                         ],
                                         style={"color": "#7a7a7a"},
                                     ),
                                 ],
-                                className="six columns",
+                                className="row ",
                             ),
                         ],
                         className="row ",
@@ -187,7 +187,7 @@ def create_layout(app):
                                     ),
 									html.P(
                                         [
-                                            "TEXTO EXPLICATIVO DO GRÁFICO"
+                                            "Top 5 Meses com mais acidentes, o que leva o aumento nesses meses?"
                                         ],
                                         style={"color": "#7a7a7a"},
                                     ),
@@ -266,7 +266,7 @@ def create_layout(app):
                                     ),
 									html.P(
                                         [
-                                            "TEXTO EXPLICATIVO DO GRÁFICO"
+                                            "Top 5 Anos com mais acidentes, o que levou esse aumento?"
                                         ],
                                         style={"color": "#7a7a7a"},
                                     ),
@@ -348,12 +348,12 @@ def create_layout(app):
                                     ),                                
 									html.P(
                                         [
-                                            "TEXTO EXPLICATIVO DO GRÁFICO"
+                                            "Podemos ver uma grande oscilação entre alguns anos. Seria uma falta de registros? Ou realmente tivemos uma queda brusca no número de acidentes?"
                                         ],
                                         style={"color": "#7a7a7a"},
                                     ),
 								],
-                                className="six columns",
+                                className="row",
                             ),
                         ],
                         className="row ",
