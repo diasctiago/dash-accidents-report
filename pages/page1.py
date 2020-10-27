@@ -37,7 +37,7 @@ def create_layout(app):
                                     html.Br([]),
                                     html.P(
                                         "\
-                                    Aqui vai um RESUMO sobre os Acidentes Registrados pelo IBAMA",
+                                    Por meio dos dados abertos é disponibilizado pelo IBAMA uma base de registros de comunicação de acidentes ambientais. Aqui temos uma análise desses dados afim de encontrar informações relevantes e insights importantes sobre acidentes ambientais no Brasil.",
                                         style={"color": "#ffffff"},
                                         className="row",
                                     ),
@@ -58,7 +58,7 @@ def create_layout(app):
                                     html.Table(make_dash_table(df_resumo)),
 									html.P(
                                         [
-                                            "TEXTO EXPLICATIVO DO GRÁFICO"
+                                            "Um resumo geral de algumas informações que chamam atenção e podem ser relavantes. Podemos identificar o periodo dos registros, o total de registros, o estado com maior número de acidentes dentre outras informações."
                                         ],
                                         style={"color": "#7a7a7a"},
                                     ),
@@ -137,7 +137,7 @@ def create_layout(app):
                                     ),
 									html.P(
                                         [
-                                            "TEXTO EXPLICATIVO DO GRÁFICO"
+                                            "Informações de quais são os tipos de acidentes mais comuns. Aqui já podemos ver que o tipo mais comum, não podemos identificar e ele corresponde a mais de 50% dos acidentes."
                                         ],
                                         style={"color": "#7a7a7a"},
                                     ),
@@ -223,7 +223,7 @@ def create_layout(app):
                                     ),
 									html.P(
                                         [
-                                            "TEXTO EXPLICATIVO DO GRÁFICO"
+                                            "Na origem dos acidentes, o notável é que são as rodovias a mais comum das origens, revelando outros problemas do Brasil. Problemas de educação no trânsito, problemas nas estradas que são problemas não só para acidentes ambientais."
                                         ],
                                         style={"color": "#7a7a7a"},
                                     ),
@@ -238,7 +238,7 @@ def create_layout(app):
                                     html.Table(make_dash_table(df_institiuicoes_atuando)),
 									html.P(
                                         [
-                                            "TEXTO EXPLICATIVO DO GRÁFICO"
+                                            "Nas instituições fica um pensamento, por que em mais de 50% dos acidentes ambientais, não tem atuação de orgão oficiais do governo? Logo pensamos, será que a maioria dos acidentes ambientais os culpados não são punidos?"
                                         ],
                                         style={"color": "#7a7a7a"},
                                     ),
