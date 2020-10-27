@@ -17,7 +17,7 @@ def get_header(app):
                     ),
                     html.A(
                         html.Button("Outros Exemplos", id="learn-more-button"),
-                        href="https://github.com/plotly/dash-sample-apps/tree/master/apps/dash-financial-report/data",
+                        href="https://github.com/plotly/dash-sample-apps/tree/master/apps/",
                     ),
                 ],
                 className="row",
