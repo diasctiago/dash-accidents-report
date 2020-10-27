@@ -47,7 +47,7 @@ def create_layout(app):
                                                             "width": 2,
                                                         },
                                                     },
-                                                    name="Eventos",
+                                                    name="Estados",
                                                 ),
                                             ],
                                             "layout": go.Layout(
@@ -99,12 +99,12 @@ def create_layout(app):
                                     ),
 									html.P(
                                         [
-                                            "TEXTO EXPLICATIVO DO GRÁFICO"
+                                            "60% dos acidentes ambientais no Brasil estão concentrados em MG, SP e RJ. Se incluimos o ES nessa lista, temos a redião SUDESTE com aproximadamente 64% dos acidentes."
                                         ],
                                         style={"color": "#7a7a7a"},
                                     ),
                                 ],
-                                className="six columns",
+                                className="row ",
                             ),
                         ],
                         className="row ",
@@ -115,12 +115,12 @@ def create_layout(app):
                             html.Div(
                                 [
                                     html.H6(
-                                        ["Top 5 Munícípios"], className="subtitle padded"
+                                        ["Top 5 Municípios"], className="subtitle padded"
                                     ),
                                     html.Table(make_dash_table(df_municipio.head(5))),
 									html.P(
                                         [
-                                            "TEXTO EXPLICATIVO DO GRÁFICO"
+                                            "Dos 5 municípios com mais acidentes, todos eles estão na região SUDESTE. Região que concentra o maior índice de acidentes do país."
                                         ],
                                         style={"color": "#7a7a7a"},
                                     ),
@@ -135,7 +135,7 @@ def create_layout(app):
                                     html.Table(make_dash_table(df_municipio.query('UF == "MG"').head(5))),
 									html.P(
                                         [
-                                            "TEXTO EXPLICATIVO DO GRÁFICO"
+                                            "Mas se fizermos uma análise com os top 5 do estado com maior número de acidentes (MG), somente 1 (Belo Horizonte) está no top 5 dos municípios do Brasil todo."
                                         ],
                                         style={"color": "#7a7a7a"},
                                     ),
